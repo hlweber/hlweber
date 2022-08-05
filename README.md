@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hello World 👋
 
-<!--
-**hlweber/hlweber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a brazilian engineer working as a risk analyst in the financial market, passionate about astronomy, football and music
+
+Check my work in the repositories and if you have any doubts, fell free to contact me :portugal: :uk: :de: :it: :es:
+
+___
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
