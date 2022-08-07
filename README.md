@@ -7,7 +7,7 @@ Check my work in the repositories
 
 ___
 
-* [Headline News Generator](https://www.google.com)
+* [Headline News Generator](https://github.com/hlweber/Headline-Generator)
 
 
 
