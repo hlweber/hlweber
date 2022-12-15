@@ -1,13 +1,24 @@
-# Hello World 👋
+# Hi there! 👋
 
+I am a risk analyst - working at a bank
 
-I am a brazilian engineer working as a risk analyst in the financial market, passionate about astronomy, football and music
+Check out some of my side projects 
 
-Check my work in the repositories
+Any doubts or suggestions, feel free to contact me!
 
 ___
 
+## Machine Learning
+### _neat
+* Flappy Bird
+* 2D racing game
+
+### _lstm
 * [Headline News Generator](https://github.com/hlweber/Headline-Generator)
 
+## Dataviz
+### _reports
+* Brazilian Exchange Banks Benchmark
+* WhatsApp report
 
 
