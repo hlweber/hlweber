@@ -10,7 +10,7 @@ ___
 
 ## Machine Learning
 ### _neat
-* Flappy Bird
+* [Flappy Bird](https://github.com/hlweber/NEAT-FlappyBird)
 * 2D racing game
 
 ### _lstm
