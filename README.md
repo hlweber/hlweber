@@ -11,7 +11,7 @@ ___
 ## Machine Learning
 ### _neat
 * [Flappy Bird](https://github.com/hlweber/NEAT-FlappyBird)
-* 2D racing game
+* [2D racing game](https://github.com/hlweber/NEAT-2D-RacingGame)
 
 ### _lstm
 * [Headline News Generator](https://github.com/hlweber/Headline-Generator)
