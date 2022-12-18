@@ -14,7 +14,7 @@ ___
 * [2D racing game](https://github.com/hlweber/NEAT-2D-RacingGame)
 
 ### _lstm
-* [Headline News Generator](https://github.com/hlweber/Headline-Generator)
+* [Headline News Generator](https://github.com/hlweber/Headline-News-Generator)
 
 ## Dataviz
 ### _reports
