@@ -18,7 +18,7 @@ ___
 * [Headline News Generator](https://github.com/hlweber/LSTM-Headline-News-Generator)
 
 ### _random forest
-* [IT Professional Salary Prediction]()
+* [IT Professional Salary Prediction](https://github.com/hlweber/Random-Forest-IT-Salary)
 
 # Dataviz
 ## _reports
